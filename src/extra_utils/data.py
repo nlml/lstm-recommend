@@ -1,5 +1,5 @@
 """
-Load MovieLens small dataset.
+Utilities for dealing with the data.
 
 Author: Liam Schoneveld
 """

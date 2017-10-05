@@ -1,6 +1,4 @@
 """
-Load MovieLens small dataset.
-
 Author: Liam Schoneveld
 """
 
